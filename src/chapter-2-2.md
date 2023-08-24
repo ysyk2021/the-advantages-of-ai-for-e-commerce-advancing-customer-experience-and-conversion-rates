@@ -1,4 +1,3 @@
-# Types of AI: natural language processing, machine learning, and deep learning
 
 This chapter introduces the different types of Artificial Intelligence (AI) techniques that are commonly used in the context of e-commerce. Specifically, it focuses on Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL) and their advantages in advancing customer experience and conversion rates in the e-commerce industry.
 

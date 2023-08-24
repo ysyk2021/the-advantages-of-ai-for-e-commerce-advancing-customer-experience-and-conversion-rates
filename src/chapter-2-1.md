@@ -1,5 +1,3 @@
-Explanation of AI Technology and Its Capabilities for E-commerce
-=======================================================================================================================
 
 AI technology has become increasingly prominent in the world of e-commerce, offering new opportunities for businesses to improve customer experience and conversion rates. In this chapter, we will explore the basics of AI technology and its capabilities for e-commerce.
 

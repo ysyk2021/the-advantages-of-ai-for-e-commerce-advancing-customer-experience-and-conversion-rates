@@ -1,5 +1,3 @@
-Chapter 1: Understanding AI Technology for E-commerce
-=====================================================
 
 AI technology has transformed the way businesses operate, providing new opportunities to improve efficiency and enhance customer experience. In this chapter, we will explore the basics of AI technology and its capabilities for e-commerce, as well as the different types of AI commonly used in this field.
 
