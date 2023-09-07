@@ -8,3 +8,7 @@ This book aims to provide a comprehensive overview of the advantages of AI for e
 By understanding the basics of AI technology and its capabilities for e-commerce, businesses can leverage this powerful tool to drive success in today's competitive marketplace. With this book as your guide, you will be well-equipped to explore the advantages of AI for e-commerce and position your business for long-term growth and success.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
