@@ -1,5 +1,4 @@
-Chapter: Addressing Potential Biases in AI Algorithms
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of addressing potential biases in AI algorithms when leveraging AI for e-commerce. While AI offers numerous advantages, it is essential to mitigate biases that may emerge in order to ensure fair and equitable experiences for all customers.
 

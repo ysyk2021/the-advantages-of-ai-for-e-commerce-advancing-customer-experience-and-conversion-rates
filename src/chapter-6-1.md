@@ -1,5 +1,4 @@
-Chapter: Use of AI for Analyzing Data and Providing Insights for Decision-Making in E-commerce
-==============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the e-commerce industry, data analysis plays a vital role in making informed decisions that drive customer experience and conversion rates. With the advent of Artificial Intelligence (AI), businesses can leverage advanced algorithms to analyze vast amounts of data, extract meaningful insights, and make data-driven decisions. In this chapter, we will explore how AI is used to analyze data and provide valuable insights for decision-making in e-commerce.
 

@@ -1,5 +1,4 @@
-Chapter: Discussion of Ethical Considerations When Using AI for E-commerce
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the ethical considerations that arise when using AI in the context of e-commerce. While AI brings numerous advantages to the e-commerce industry, it is important to address potential ethical challenges to ensure responsible and fair practices.
 

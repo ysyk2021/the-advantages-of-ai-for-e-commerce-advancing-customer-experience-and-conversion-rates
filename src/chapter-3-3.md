@@ -1,5 +1,4 @@
-Chapter: Addressing Potential Challenges and Ethical Considerations in Using AI for Personalization
-===================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential challenges and ethical considerations that arise when e-commerce businesses use AI for personalization. While using AI for personalization offers significant advantages, it is important to understand and address these challenges to ensure responsible and ethical use.
 

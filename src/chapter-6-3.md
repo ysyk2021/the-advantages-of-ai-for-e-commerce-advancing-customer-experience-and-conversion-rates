@@ -1,5 +1,4 @@
-Chapter: Potential Limitations and Ethical Considerations in Using AI for Data Analysis
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial Intelligence (AI) has brought significant advancements to data analysis in the e-commerce industry, enabling businesses to gain valuable insights and make data-driven decisions. However, it is important to acknowledge and address the potential limitations and ethical considerations associated with using AI for data analysis. In this chapter, we will explore these challenges and discuss ways to mitigate them.
 

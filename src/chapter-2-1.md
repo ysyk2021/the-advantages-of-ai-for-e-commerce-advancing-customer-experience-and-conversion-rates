@@ -1,5 +1,4 @@
-Chapter: Explanation of AI Technology and its Capabilities for E-commerce
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of AI technology and explore its capabilities for enhancing the customer experience and driving conversion rates in the e-commerce industry.
 
